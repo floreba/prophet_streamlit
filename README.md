@@ -1,1 +1,3 @@
-Interactive Time Series Forecasting Application that uses the Prophet Model by Facebook
+<b>📈 Interactive Time Series Forecasting Application</b>
+using the Prophet Model by Facebook
+forecasted.streamlit.app
