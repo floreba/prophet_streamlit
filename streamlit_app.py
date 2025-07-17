@@ -21,9 +21,7 @@ st.sidebar.write("""
 4. Choose the number of days you want to forecast.
 5. View the forecasted results and analyze the components of the forecast.
 """)
-st.sidebar.warning("Looking to integrate a more customizable forecasting model into your data pipeline?")
-st.sidebar.subheader("Let's connect:")
-st.sidebar.write("weiterleitung.duplex110@passinbox.com")
+
 
 
 # File uploader for CSV or Excel
